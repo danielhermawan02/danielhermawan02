@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielhermawan02
 - 👀 I’m interested in learning something new
-- 🌱 I’m currently learning Front End Web Development
+- 🌱 I’m currently learning Front End Web Development and Data Science
 - Get in touch with me!
 - Instagram : @ddanielh_ 
 
