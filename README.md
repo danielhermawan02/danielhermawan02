@@ -2,7 +2,7 @@
 - 👀 I'm an enthusiastic team player and adept leader, passionate about guiding projects to success. I thrive on leveraging my skills in Artificial Intelligence (especially Machine Learning, Deep Learning, and NLP) and Data Science to innovate and solve complex challenges.
 - 🌱 I’m currently focused on deepening my expertise in Data & Machine Learning and am always excited about learning something new.
 - 💞️ I'm experienced in project management, employing technical expertise and strategic planning for efficient outcomes. I'm committed to continuous learning and staying updated with the latest in technology for impactful results.
-- 📫 How to reach me:
+- 📫 Reach me out!
 <p align="left">
   <a href="https://instagram.com/ddanielh_" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -31,7 +31,7 @@
 
 ## 🚀 My Projects
 
-Here are a few projects I've worked on:
+Here are a few projects I've worked on :
 
 1.  **Character Recognition in Scanned Documents & Chatbot Integration**
     *   Designing a deep learning model for OCR in scanned documents, integrated with a chatbot for intent generation. This is also my Final Year Project.
