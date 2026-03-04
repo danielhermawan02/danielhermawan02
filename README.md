@@ -7,7 +7,7 @@
   <a href="https://instagram.com/ddanielh_" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer"> <!-- Replace # with your LinkedIn profile URL -->
+  <a href="https://www.linkedin.com/in/daniel-hermawan/" target="_blank" rel="noreferrer"> <!-- Replace # with your LinkedIn profile URL -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer"> <!-- Replace # with your Twitter profile URL -->
