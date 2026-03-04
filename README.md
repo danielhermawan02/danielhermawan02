@@ -35,13 +35,10 @@ Here are a few projects I've worked on :
 
 1.  **Character Recognition in Scanned Documents & Chatbot Integration**
     *   Designing a deep learning model for OCR in scanned documents, integrated with a chatbot for intent generation. This is also my Final Year Project.
-    *   `[Project Link Placeholder]`
 2.  **PlasmaHub.its.ac.id (Plasma Convalescent Donor Platform)**
     *   An initiative to create a platform connecting convalescent plasma donors with COVID-19 patients to aid recovery efforts during the pandemic.
-    *   `[Project Link Placeholder]`
 3.  **Multi-Format WhatsApp Message Automation**
     *   A program to automate sending WhatsApp messages with various file formats (documents, images, videos with captions) to multiple users, built using Selenium and Pandas.
-    *   `[Project Link Placeholder]`
 
 ## 📊 My GitHub Stats
 
